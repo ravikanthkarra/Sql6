@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+# Write your MySQL query statement below 
 with cte as
 (
     select customer_id, 
